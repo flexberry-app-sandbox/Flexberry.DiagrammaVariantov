@@ -1,0 +1,15 @@
+﻿{
+  "name": "IISDiagramma_variantovNewClass2",
+  "modelName": "i-i-s-diagramma-variantov-new-class2",
+  "className": "NewClass2",
+  "nameSpace": "IIS.Diagramma_variantov",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [],
+  "stored": true,
+  "offline": true,
+  "external": false
+}

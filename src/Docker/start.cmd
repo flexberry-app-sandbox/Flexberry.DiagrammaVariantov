@@ -1,0 +1,1 @@
+docker-compose -p diagramma_variantov up -d

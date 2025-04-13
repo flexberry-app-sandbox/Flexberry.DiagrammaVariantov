@@ -1,0 +1,25 @@
+﻿{
+  "name": "IISDiagramma_variantovNewClass1",
+  "modelName": "i-i-s-diagramma-variantov-new-class1",
+  "className": "NewClass1",
+  "nameSpace": "IIS.Diagramma_variantov",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [
+    {
+      "name": "фИО",
+      "type": "string",
+      "flexberryType": "string",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    }
+  ],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [],
+  "stored": true,
+  "offline": true,
+  "external": false
+}
