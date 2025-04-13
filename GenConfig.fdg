@@ -13,7 +13,7 @@
       "EmberJs": {
         "EmberApp": true,
         "EmberAddon": false,
-        "Build": false,
+        "Build": true,
         "GitClone": false,
         "GitPush": false,
         "GhPagesPush": true,
@@ -74,7 +74,7 @@
       }
     },
     "Docs": {
-      "Csv": false,
+      "Csv": true,
       "Wmf": false
     },
     "Metadata": {
